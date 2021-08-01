@@ -79,17 +79,19 @@ cod: 200
 - Add a second API
 
 
+
+
 ## Project Schedule
 
 
-|   Day      |                 |             Deliverable                 |                 | Status
-
-|July 30          Prompt / Wireframes / Priority Matrix / Timeframes                       | complete
-|August 2|        Project Approval / Core Application Structure (HTML, CSS, etc.)          | Incomplete
-|August 3|        Pseudocode / actual code                                                 | Incomplete
-|August 4|        Initial Clickable Model                                                  | Incomplete
-|August 5|        MVP                                                                      | Incomplete
-|August 6|        Presentations                                                            | Incomplete
+|  Day | Deliverable | Status
+|---|---| ---|
+|July 30| Prompt / Wireframes / Priority Matrix / Timeframes | complete
+|August 2| Project Approval / Core Application Structure (HTML, CSS, etc.) | Incomplete
+|August 3| Pseudocode / actual code | Incomplete
+|August 4| Initial Clickable Model  | Incomplete
+|August 5| MVP | Incomplete
+|August 6| Presentations | Incomplete
 
 ## Priority Matrix
 
@@ -97,18 +99,25 @@ cod: 200
 
 ## Timeframes
 
-| Component |                    Priority | Estimated Time | Time Invested | Actual Time |
-| ---                                     
-| Research Api                     | H |        |3hrs|       |   2hr     |     |  3hr   |
-| Pseudocode                       | H |        |3hrs|
-| Adding form                      | H |        |3hrs|
-| HTML/CSS structure               | H |        |6hrs|  
-| city Api callback function       | H |        |3hrs|  
-| Remove previous search result    | H |        |3hrs|  
-| css styling for smaller device   | H |        |4hrs|
-| MVP check.                       | H |        |3hrs|
-| Post MVP check                   | H |        |3hrs|
-| Total.                           | H |        |60hrs| 
+| Component | Priority | Estimated Time | Time Invested | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
+| Adding Form | H | 3hrs|  |  |
+| Research API | H | 3hrs|  ||
+| HTML/CSS structure | H | 6hrs|  |  |
+| Pseudocode | H | 3hrs| | |
+| Remove previous search result | H | 3hrs| |  |
+| MVP check| H | 3hrs|  |  |
+| Post MVP check | H | 3hrs|  |  |
+| city Api callback function  | H | 3hrs| |  |
+|CSS styling for smaller devices | H | 3hrs| |  |
+| Total | H | 60hrs| | |
+
+
+
+
+
+
+
 
 ## Code Snippet
 
