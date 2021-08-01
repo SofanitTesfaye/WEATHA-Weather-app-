@@ -10,7 +10,7 @@ WEATHA [Weather App]
 
 
 ## Project Description
-This weather app will let you know the weather in 
+This weather app will let you know the weather information in the city you are searching for.
 
 
 ## API and Data Sample
