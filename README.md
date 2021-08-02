@@ -101,8 +101,8 @@ cod: 200
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 2hrs | 3hrs |
-| Research API | H | 3hrs|  ||
+| Adding Form | H | 3hrs|  |  |
+| Research API | H | 3hrs| 2hrs |3hrs|
 | HTML/CSS structure | H | 6hrs|  |  |
 | Pseudocode | H | 3hrs| | |
 | Remove previous search result | H | 3hrs| |  |
