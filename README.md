@@ -121,9 +121,8 @@ cod: 200
 
 ## Code Snippet
 
-Use this section to include a brief code snippet of functionality that you are proud of and a brief description.  
+ 
 
 
 
 ## Change Log
-I had to use a different endpoint with my project API. I realized that I had no images in my response.
