@@ -67,7 +67,7 @@ This weather app will let you know the weather information in the city you are s
 
 #### MVP 
 
-- Find external api and use the data.
+- Use external weather api to access as data.
 - Allow user to get current weather information by searching the city.
 - remove previous search data when new search is made.
 - use CSS to style the page.
