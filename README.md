@@ -76,8 +76,8 @@ This weather app will let you know the weather information in the city you are s
 
 #### PostMVP  
 -daily forcast 7days
-- show dates with the weather info
-- use a second API
+-show dates with the weather info
+-use a second API
 
 
 ## Project Schedule
