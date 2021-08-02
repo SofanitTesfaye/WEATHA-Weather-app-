@@ -64,7 +64,7 @@ cod: 200
 
 ## Wireframes
 
-[wireframe](https://wireframepro.mockflow.com/editor.jsp?editor=on&publicid=M3ac6ed739000c2aad3f96a7ad2539ab51627839537213&perm=Create&projectid=M6399d0c99000f89df18067c9a21418231627840180577&ptitle=WEATHA&bgcolor=white&category=featured#/page/d09fe70a6b2d4fdf910dfbe2b857596a)
+[wireframe]https://wireframepro.mockflow.com/editor.jsp?editor=off&publicid=M824a5b6aa1b95979287d558f3755be611627919036317&projectid=M6399d0c99000f89df18067c9a21418231627840180577&perm=Owner#/page/d09fe70a6b2d4fdf910dfbe2b857596a)
 
 ### MVP/PostMVP
 
