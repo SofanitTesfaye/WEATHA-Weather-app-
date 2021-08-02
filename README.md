@@ -104,7 +104,7 @@ This weather app will let you know the weather information in the city you are s
 |HTML| H | 3hrs|  |  |
 | Pseudocode | H | 4hrs| | |
 |madiaquery for smaller device| H | 4hrs| |  |
-|refactoring code| 3hrs|  |   |
+|refactoring code|H | 3hrs |   |
 | city Api callback function  | H | 4hrs| |  |
 | Remove previous search result | H | 3hrs| |  |
 | MVP check| H | 4hrs|  |  |
