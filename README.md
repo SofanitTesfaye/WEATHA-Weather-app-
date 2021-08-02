@@ -16,7 +16,7 @@ This weather app will let you know the weather information in the city you are s
 ## API and Data Sample
 
 [Openweather API]( http://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=b351ed20610d69f0305baa374dd8c604)
-
+```
 {
    "coord":{
       "lon":-0.13,
@@ -59,7 +59,7 @@ This weather app will let you know the weather information in the city you are s
    "name":"London",
    "cod":200
   }
-
+```
 ## Wireframes
 
 [wireframe]https://wireframepro.mockflow.com/editor.jsp?editor=off&publicid=M824a5b6aa1b95979287d558f3755be611627919036317&projectid=M6399d0c99000f89df18067c9a21418231627840180577&perm=Owner#/page/d09fe70a6b2d4fdf910dfbe2b857596a)
