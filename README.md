@@ -87,8 +87,8 @@ This weather app will let you know the weather information in the city you are s
 |July 30|  Wireframes / Priority Matrix / Timeframes / API and data samples | complete
 |August 2| Project Approval / Core Application Structure (HTML, CSS, .etc) | Incomplete
 |August 3| Pseudocode / JS | Incomplete
-|August 4|MVP check  | Incomplete
-|August 5|PMVP| Incomplete
+|August 4|CSS, MVP   | Incomplete
+|August 5|Refactor, PMVP| Incomplete
 |August 6| Presentations | Incomplete
 
 ## Priority Matrix
