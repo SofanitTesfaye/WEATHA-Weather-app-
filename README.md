@@ -71,7 +71,6 @@ cod: 200
 #### MVP 
 
 - Find and use external api 
-- Render data on page 
 - Allow user to get current weather information by searching the city.
 
 #### PostMVP  
