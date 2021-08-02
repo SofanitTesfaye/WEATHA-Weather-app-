@@ -70,12 +70,14 @@ This weather app will let you know the weather information in the city you are s
 
 - Find external api and use the data.
 - Allow user to get current weather information by searching the city.
-- remove previou search data when new search is made.
+- remove previous search data when new search is made.
 - use CSS to style the page.
 - use media query for small screen.
 
 #### PostMVP  
--use a second API
+-daily forcast 7days
+- show dates with the weather info
+- use a second API
 
 
 ## Project Schedule
