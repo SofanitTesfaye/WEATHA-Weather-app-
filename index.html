@@ -1,34 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<div class = "container">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
   <title>Weather App</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./style.css">
   <script src="./app.js" defer></script>
+
 </head>
 
-
 <body>
-  <div class="card">
-    <div class="search-section">
-      <input type="text" class="searchForm" placeholder="Type the city" />
-      <button id="search">Search</button>
+    <div class="body-top">
+    <h1> Welcome To</h1>
+    <h2> WEATHA</h2>
     </div>
-    <div class="weatha">
-      <h2 class="city">weather in london</h2>
-      <div class="temp">51°C</div>
+  <div class="card">   
+    <div class="search">
+      <input type="text" class="search-bar" placeholder="Enter the city to search for weather " />
+      <button class="searchButton">Search</button>
+    </div>
+    <section class="data">
+      <h2 class="city"></h2>
+      <div class="temp"></div>
       <img src="" alt="" class="icon" />
-      <div class="description">cloudy</div>
-      <div class="humidity">humidity</div>
-      <div class="wind">wind speed: 6.2 km/h</div>
-    </div>
+      <div class="description"></div>
+      <div class="humidity"></div>
+      <div class="wind"></div>
+    </section>
+  
   </div>
 </body>
-
+<footer class= "localTime">Local Time</footer>
+</div>
 </html>
