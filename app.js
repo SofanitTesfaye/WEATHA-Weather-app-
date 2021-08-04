@@ -5,7 +5,7 @@
 let weather = {
   getWeather: async function fetchWeather(city) {
     try {
-     removeWeather();
+      removeWeather();
       const apiKey = "b351ed20610d69f0305baa374dd8c604";
       await axios.get(
         `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`
@@ -38,11 +38,11 @@ let weather = {
     this.getWeather(document.querySelector(".search-bar").value)
   }
 };
-  
+
 function removeWeather() {
   const removeElement = document.querySelector('.search-bar')
   while (removeElement.lastChild) {
-  removeElement.removeChild(removeElement.lastChild)
+    removeElement.removeChild(removeElement.lastChild)
   }
 }
 
