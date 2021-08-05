@@ -101,9 +101,9 @@ This weather app will let you know the weather information in the city you are s
 | --- | :---: |  :---: | :---: | :---: |
 | Research API | H | 3hrs| 2hrs |  |
 |Adding form | H | 3hrs|  ||
-|CSS|H| 4hrs| |  5hrs |
-|HTML| H | 3hrs|  | 2hrs |
-| Pseudocode | H | 4hrs| | 1hr|
+|CSS|H| 4hrs|5hrs |   |
+|HTML| H | 3hrs|  2hrs|  |
+| Pseudocode | H | 4hrs|1hr | |
 |Madiaquery for smaller device| H | 4hrs| |  |
 |Refactoring code|H | 3hrs |  6hrs |
 | City Api callback function  | H | 4hrs| 3hrs|  |
