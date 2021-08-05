@@ -69,14 +69,14 @@ This weather app will let you know the weather information in the city you are s
 
 - Use external weather api to access as data.
 - Allow user to get current weather information by searching the city.
-- remove previous search data when new search is made.
-- use CSS to style the page.
-- use media query for small screen.
+- Remove previous search data when new search is made.
+- Use CSS to style the page.
+- Use media query for small screen.
 
 #### PostMVP  
-- daily forcast 7days
-- show dates with the weather info
-- use a second API
+- Daily forcast 7days
+- Show dates with the weather info
+- Use a second API
 
 
 ## Project Schedule
@@ -84,10 +84,10 @@ This weather app will let you know the weather information in the city you are s
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|July 30|  Wireframes / Priority Matrix / Timeframes / API and data samples | complete
-|August 2| Project Approval / Core Application Structure (HTML, CSS, .etc) | Incomplete
-|August 3| Pseudocode / JS | Incomplete
-|August 4|CSS, MVP   | Incomplete
+|July 30|  Wireframes / Priority Matrix / Timeframes / API and data samples | Complete
+|August 2| Project Approval / Core Application Structure (HTML, CSS, .etc) | Complete
+|August 3| Pseudocode / JS | Complete
+|August 4|CSS, MVP   | Complete
 |August 5|Refactor, PMVP| Incomplete
 |August 6| Presentations | Incomplete
 
@@ -101,13 +101,13 @@ This weather app will let you know the weather information in the city you are s
 | --- | :---: |  :---: | :---: | :---: |
 | Research API | H | 3hrs| 2hrs |  |
 |Adding form | H | 3hrs|  ||
-|css |H| 4hrs| |   |
-|HTML| H | 3hrs|  |  |
-| Pseudocode | H | 4hrs| | |
-|madiaquery for smaller device| H | 4hrs| |  |
-|refactoring code|H | 3hrs |   |
-| city Api callback function  | H | 4hrs| |  |
-| Remove previous search result | H | 3hrs| |  |
+|CSS|H| 4hrs|5hrs |   |
+|HTML| H | 3hrs|  2hrs|  |
+| Pseudocode | H | 4hrs|1hr | |
+|Madiaquery for smaller device| H | 4hrs| |  |
+|Refactoring code|H | 3hrs |  6hrs |
+| City Api callback function  | H | 4hrs| 3hrs|  |
+| Remove previous search result | H | 3hrs| 1hr|  |
 | MVP check| H | 4hrs|  |  |
 | Post MVP check | H | 3hrs|  |  |
 |CSS styling for smaller devices | H | 3hrs| |  |
