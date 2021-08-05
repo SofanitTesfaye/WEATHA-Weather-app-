@@ -22,30 +22,30 @@ async function weatherData() {
     console.error(error);
   }
 }
-  
+
 function displayWeatherInfo(data) {
   const Div = document.createElement("div");
   const h1 = document.createElement("h1");
   const h2 = document.createElement("h2");
-//weather + in + cityName
-  
+  //weather + in + cityName
+
   weatherSection.append(h2);
   city.textContent = "Weather in " + data.name;
   weatherSection.append(city);
-// Temprature
-  
+  // Temprature
+
   weatherSection.append(h1);
   temp.textContent = data.main.temp + "°C";
   weatherSection.append(temp);
 
-//Weather icon
-  
+  //Weather icon
+
   const icon = data.weather[0].icon;
   const imgTag = document.createElement("img");
   imgTag.setAttribute("src", "https://openweathermap.org/img/wn/" + `${icon}` + ".png");
   weatherSection.append(imgTag);
   console.log(icon)
-  //description
+  //Description
 
   weatherSection.append(Div);
   description.textContent = data.weather[0].description;
@@ -70,11 +70,10 @@ document
     weatherData()
   })
 
-  //Remove the child element
+//Remove the child element
 function removeWeather() {
-  const removeElement = document.querySelector('.search-bar')
-  while (removeElement.lastChild) {
-    removeElement.removeChild(removeElement.lastChild)
+  while (weatherSection.lastChild) {
+    weatherSection.removeChild(weatherSection.lastChild)
   }
 }
 

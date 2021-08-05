@@ -83,11 +83,6 @@ h2{
   text-transform: capitalize;
 }
 
-.localTime{
-  height: 4%;
-  text-align: right;
-  color: red;
-}
 @media only screen and (max-width: 480px) {
   body {
     background-color: rgb(5, 121, 19);
