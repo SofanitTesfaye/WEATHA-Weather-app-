@@ -14,7 +14,7 @@ async function weatherData() {
   try {
     // define textInput
     const textInput = document.querySelector('.search-bar').value;
-    // calling the api data for a particular city/region
+    // calling the api data for a particular city name 
     const apiUrl = `http://api.openweathermap.org/data/2.5/weather?q=${textInput}&appid=b351ed20610d69f0305baa374dd8c604&units=metric`;
     // the api response
     let response = await axios.get(apiUrl);
