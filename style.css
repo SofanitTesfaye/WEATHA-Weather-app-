@@ -16,10 +16,11 @@ body{
 .body-top{
   text-align: center;
   font-size: 25px;
-  display:ruby-text-container;
+ 
   padding-top: -5em;
   color: rgb(13, 17, 238);
   font-weight: bold;
+
 }
 .card{
   background: #75c7e0d0;
