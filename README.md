@@ -111,7 +111,7 @@ This weather app will let you know the weather information in the city you are s
 | MVP check| H | 4hrs| 3hrs | 2hrs |
 | Post MVP check | H | 3hrs| 0 |  0|
 |CSS styling for smaller devices | H | 3hrs|2hrs |  3hrs|
-| Total | H | 41hrs|| |
+| Total | H | 41hrs|30hrs|31hrs |
 
 
 
