@@ -88,8 +88,8 @@ This weather app will let you know the weather information in the city you are s
 |August 2| Project Approval / Core Application Structure (HTML, CSS, .etc) | Complete
 |August 3| Pseudocode / JS | Complete
 |August 4|CSS, MVP   | Complete
-|August 5|Refactor, PMVP| Incomplete
-|August 6| Presentations | Incomplete
+|August 5|Refactor, PMVP| Complete
+|August 6| Presentations | Complete
 
 ## Priority Matrix
 
@@ -99,19 +99,19 @@ This weather app will let you know the weather information in the city you are s
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Research API | H | 3hrs| 2hrs |  |
-|Adding form | H | 3hrs|  ||
-|CSS|H| 4hrs|5hrs |   |
-|HTML| H | 3hrs|  2hrs|  |
-| Pseudocode | H | 4hrs|1hr | |
-|Madiaquery for smaller device| H | 4hrs| |  |
-|Refactoring code|H | 3hrs |  6hrs |
-| City Api callback function  | H | 4hrs| 3hrs|  |
-| Remove previous search result | H | 3hrs| 1hr|  |
-| MVP check| H | 4hrs|  |  |
-| Post MVP check | H | 3hrs|  |  |
-|CSS styling for smaller devices | H | 3hrs| |  |
-| Total | H | 41hrs| | |
+| Research API | H | 3hrs| 2hrs | 3hr |
+|Adding form | H | 3hrs| 1hr |2hr|
+|CSS|H| 4hrs|5hrs | 4hrs  |
+|HTML| H | 3hrs|  2hrs| 3hrs |
+| Pseudocode | H | 4hrs|1hr | 2hrs|
+|Madiaquery for smaller device| H | 4hrs|4hrs |  1hr|
+|Refactoring code|H | 3hrs |  6hrs |6hrs|
+| City Api callback function  | H | 4hrs| 3hrs| 3hrs |
+| Remove previous search result | H | 3hrs| 1hr| 2hrs |
+| MVP check| H | 4hrs| 3hrs | 2hrs |
+| Post MVP check | H | 3hrs| 0 |  0|
+|CSS styling for smaller devices | H | 3hrs|2hrs |  3hrs|
+| Total | H | 41hrs|| |
 
 
 
@@ -121,9 +121,14 @@ This weather app will let you know the weather information in the city you are s
 
 
 ## Code Snippet
+```
+ const icon = data.weather[0].icon;
+  const imgTag = document.createElement("img");
+  imgTag.setAttribute("src", "https://openweathermap.org/img/wn/" + `${icon}` + ".png");
+  weatherSection.append(imgTag);
+  console.log(icon)
 
- 
-
-
+```
 
 ## Change Log
+Only mvp lists were made because of time constraint.
